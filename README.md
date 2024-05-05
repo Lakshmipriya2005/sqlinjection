@@ -1,5 +1,5 @@
 # EXP.NO:08
-# DATE:
+# DATE:30.04.2024
 # sqlinjection
 Exploiting SQL Injection vulnerability
 
